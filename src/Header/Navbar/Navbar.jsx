@@ -11,7 +11,7 @@ const Navbar = () => {
             </div>
             {/* Middle Side */}
             <div className='flex gap-12 font-plus font-medium text-lg text-[#0F0F0F]/[0.7]'>
-                <NavLink>Home</NavLink>
+                <NavLink to='/'>Home</NavLink>
                 <NavLink>My-Bookings</NavLink>
                 <NavLink>Blogs</NavLink>
                 <NavLink>Contact Us</NavLink>
