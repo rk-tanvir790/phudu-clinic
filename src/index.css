@@ -5,3 +5,7 @@
 @theme{
   --font-plus: "Plus Jakarta Sans", sans-serif;
 }
+
+.custom-gradient {
+  background: linear-gradient(to bottom, #efefef 40%, #ffffff 100%);
+}
