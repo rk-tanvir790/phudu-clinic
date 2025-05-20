@@ -1,0 +1,98 @@
+[
+  {
+    "doctor_image": "https://i.ibb.co/dw9G9xXz/3.webp",
+    "name": "Dr. Aarav Sharma",
+    "education": "MBBS - AIIMS Delhi, MD - Cardiology - PGIMER Chandigarh",
+    "speciality": "Cardiologist",
+    "experience": "12",
+    "registration_number": "BD 12451254"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/w9WZDWj/1.webp",
+    "name": "Dr. Isha Mehra",
+    "education": "MBBS - KMC Manipal College, MS - General Surgery - JIPMER",
+    "speciality": "General Surgeon",
+    "experience": "9",
+    "registration_number": "CD 23456178"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/ymQ1WNhV/4.webp",
+    "name": "Dr. Rahul Verma",
+    "education": "MBBS - Grant Medical College, DM - Neurology - NIMHANS",
+    "speciality": "Neurologist",
+    "experience": "11",
+    "registration_number": "EF 87542316"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/PGwPTKhN/2.webp",
+    "name": "Dr. Neha Kapoor",
+    "education": "MBBS - AFMC Pune College, MD - Pediatrics - AIIMS Delhi",
+    "speciality": "Pediatrician",
+    "experience": "7",
+    "registration_number": "GH 65473829"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/nMv7CzPs/team-02-540x640.jpg",
+    "name": "Dr. Siddharth Rao",
+    "education": "MBBS - Stanley Medical College, MS - Orthopedics - CMC Vellore",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "10",
+    "registration_number": "IJ 73628940"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/Wp6yDzjJ/team-01-540x640.jpg",
+    "name": "Dr. Priya Singh",
+    "education": "MBBS - B.J. Medical College, MD - Dermatology - KEM Hospital",
+    "speciality": "Dermatologist",
+    "experience": "8",
+    "registration_number": "KL 98632475"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/jZJYZ3PJ/team-03-540x640.jpg",
+    "name": "Dr. Amit Jain",
+    "education": "MBBS - King George's Medical University, MS - ENT - AIIMS Delhi",
+    "speciality": "ENT Specialist",
+    "experience": "6",
+    "registration_number": "MN 11234567"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/xSj3Bnc4/team-04-540x640.jpg",
+    "name": "Dr. Karan Patel",
+    "education": "MBBS - CMC Ludhiana, MS - Urology - PGI Chandigarh",
+    "speciality": "Urologist",
+    "experience": "8",
+    "registration_number": "OP 83726491"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/J9ncx9h/team-05-540x640.jpg",
+    "name": "Dr. Raj Kumar",
+    "education": "MBBS - Maulana Azad Medical College, MD - Internal Medicine - PGIMER",
+    "speciality": "General Physician",
+    "experience": "14",
+    "registration_number": "QR 75812036"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/s93xYmP5/team-07-540x640.jpg",
+    "name": "Dr. Sneha Rathi",
+    "education": "MBBS - JSS Medical College, DNB - Obstetrics & Gynaecology - Apollo Hospital",
+    "speciality": "Gynecologist",
+    "experience": "10",
+    "registration_number": "ST 39847126"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/1YnKNvWc/team-06-540x640.jpg",
+    "name": "Dr. Mahesh Patil",
+    "education": "MBBS - Govt Medical College Nagpur, MD - Anesthesiology - AIIMS",
+    "speciality": "Anesthesiologist",
+    "experience": "13",
+    "registration_number": "UV 52174863"
+  },
+  {
+    "doctor_image": "https://i.ibb.co/TBNpq4FV/team-08-540x640.jpg",
+    "name": "Dr. Rakesh Das",
+    "education": "MBBS - R.G. Kar Medical College, MD - Pulmonology - CMC Vellore",
+    "speciality": "Pulmonologist",
+    "experience": "7 years",
+    "registration_number": "WX 67483910"
+  }
+]

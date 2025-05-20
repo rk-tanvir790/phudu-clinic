@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
     return (
-        <div className='flex flex-col items-center px-[160px] py-[64px] rounded-3xl border-3 border-white w-11/12 mx-auto custom-gradient'>
+        <div className='flex flex-col items-center px-[160px] py-[64px] rounded-3xl border-3 border-white w-11/12 mx-auto custom-gradient mt-3'>
             {/* Top part */}
             <div className='text-center w-[68%]'>
                 <h2 className='font-plus font-extrabold text-5xl text-[#0F0F0F] text-center mb-4'>Dependable Care, Backed by Trusted Professionals.</h2>
